@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\Project1\Project1\Source.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\Project1\Project1\Source.c(20,9): message : consider using '%lld' in the format string
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\Project1\Project1\Source.c(20,9): message : consider using '%I64d' in the format string
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\Project1\Project1\Source.c(16,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

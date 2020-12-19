@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\student\Desktop\ruap_lv2_stipke\ruap-lv2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
